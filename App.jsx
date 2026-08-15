@@ -39,22 +39,22 @@ function useFonts() {
 /* ---------------------------------------------------------------- */
 const COURSES = [
   {
-    id: "fullstack",
-    title: "Full-Stack Web Development",
+    id: "functionaltesting",
+    title: "Functional Testing - QA",
     icon: Code2,
-    category: "Development",
+    category: "Testing",
     level: "Beginner to Advanced",
-    duration: "24 weeks",
-    price: "₹64,999",
-    tags: ["React", "Node.js", "MongoDB", "REST APIs"],
+    duration: "3 weeks",
+    price: "₹5,000",
+    tags: ["Manual", "EndtoEnd", "UAT", "Production"],
     description:
-      "Go from writing your first line of HTML to shipping production React and Node applications with real databases.",
+      "From Requirement analysis to deployment will teach you in real time projects",
     curriculum: [
-      "HTML, CSS & modern JavaScript",
-      "React fundamentals & hooks",
-      "Node.js, Express & REST APIs",
-      "MongoDB & SQL databases",
-      "Auth, deployment & capstone project",
+      "Test Cases creation",
+      "Testing methodoliges",
+      "UAT Tesing",
+      "Production Testing",
+      "End to End testing",
     ],
   },
   {
