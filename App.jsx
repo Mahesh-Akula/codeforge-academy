@@ -154,7 +154,7 @@ const COURSES = [
   },
 ];
 
-const CATEGORIES = ["All", "Development", "Data", "Infrastructure", "Security"];
+const CATEGORIES = ["All", "Testing", "Development", "Data", "Infrastructure", "Security"];
 
 const TESTIMONIALS = [
   {
